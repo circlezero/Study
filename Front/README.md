@@ -1,1 +1,0 @@
-# Front End Study Directory
