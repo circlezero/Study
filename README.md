@@ -10,4 +10,5 @@
         - [Next.js Routing documentation](https://nextjs.org/docs/#routing)
 
         - **pages** 📂Directory만 name을 신경쓰고 다른 Directory의 path와 name은 마음대로
+        - **useRouter**는 React Hook 이며 페이지안의 router object에 접근할 수 있게 해준다.
 ## Back
